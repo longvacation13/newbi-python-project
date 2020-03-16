@@ -22,14 +22,9 @@
 
 - 내 블로그 정보 : blog.naver.com/superukie ( python 관련 기초적인 내용 및 설치 관련 정보 ) 
 
-
-[에러 처리 관련 정보] 
-1. 로컬 저장소와 원격저장소 연결이 지속적으로 안됐었음 
-> refusing to merge unrelated histories
-원인 : 로컬저장소와 원격저장소간 차이가 많이 날 경우 발생함 
-해결방법 : 
-1. master branch에서 작업하지 말고 create new branch로 새 작업 
-2. 원격 저장소와 연결 : git branch --set-upstream-to=origin/master junyahn/python/1
-3. 강제로 원격저장소 pull 처리 : git pull --allow-unrelated-histories
-
+[ 프로젝트 생성 방법 ( 위 설치 종료 됐다는 전제) ] 
+1. django-admin.py를 프로젝트 폴더로 옮김 
+2. 옮긴 폴더에서 python django-admin.py startproejct {project이름} 입력 
+3. 해당 폴더 {project이름}으로 이동 
+4. python manage.py runserver 입력 ( 서버 동작 시킴 ) 
 
