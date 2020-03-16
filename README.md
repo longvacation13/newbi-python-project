@@ -26,3 +26,7 @@
 3. 해당 폴더 {project이름}으로 이동 
 4. python manage.py runserver 입력 ( 서버 동작 시킴 ) 
 
+
+[ Hello World 생성 예제 ] 
+https://ssungkang.tistory.com/entry/Django-02-Django-%EC%8B%9C%EC%9E%91-Hello-World-%EC%B6%9C%EB%A0%A5
+
