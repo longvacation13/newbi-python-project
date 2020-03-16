@@ -16,3 +16,6 @@
 [프레임워크 설치 및 진행] 
 아래 프레임 워크 참고함
 https://godrjsmgl.tistory.com/32 
+
+django framwork architecture 관련 설명 
+http://pythonstudy.xyz/python/article/305-Django-App
