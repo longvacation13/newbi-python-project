@@ -13,9 +13,11 @@
 - 넷플리스의 경우도 CRUD 이외에 스트리밍이라던가 리얼타임을 자주 하기 때문에 django framework 사용에 적절하지 않다. 
 
 
-[프레임워크 설치 및 진행] 
-아래 프레임 워크 참고함
-https://godrjsmgl.tistory.com/32 
+[프레임워크 설치 및 진행 관련 도움말] 
+- 아래 프레임 워크 참고함
+- 프레임워크 관련 주소 : https://godrjsmgl.tistory.com/32 
 
-django framwork architecture 관련 설명 
-http://pythonstudy.xyz/python/article/305-Django-App
+- 아키텍처 및 app 구성도 정보 
+- http://pythonstudy.xyz/python/article/305-Django-App
+
+- 내 블로그 정보 : blog.naver.com/superukie ( python 관련 기초적인 내용 및 설치 관련 정보 ) 
