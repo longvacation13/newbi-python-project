@@ -16,11 +16,9 @@
 [프레임워크 설치 및 진행 관련 도움말] 
 - 아래 프레임 워크 참고함
 - 프레임워크 관련 주소 : https://godrjsmgl.tistory.com/32 
-
-- 아키텍처 및 app 구성도 정보 
-- http://pythonstudy.xyz/python/article/305-Django-App
-
+- 아키텍처 및 app 구성도 정보 : http://pythonstudy.xyz/python/article/305-Django-App
 - 내 블로그 정보 : blog.naver.com/superukie ( python 관련 기초적인 내용 및 설치 관련 정보 ) 
+
 
 [ 프로젝트 생성 방법 ( 위 설치 종료 됐다는 전제) ] 
 1. django-admin.py를 프로젝트 폴더로 옮김 
