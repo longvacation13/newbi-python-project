@@ -27,6 +27,10 @@
 4. python manage.py runserver 입력 ( 서버 동작 시킴 ) 
 
 
+[ 가상환경 구축 ] 
+https://galid1.tistory.com/250
+
+
 [ Hello World 생성 예제 ] 
 
 https://ssungkang.tistory.com/entry/Django-02-Django-%EC%8B%9C%EC%9E%91-Hello-World-%EC%B6%9C%EB%A0%A5
