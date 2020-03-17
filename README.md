@@ -35,3 +35,6 @@ https://galid1.tistory.com/250
 
 https://ssungkang.tistory.com/entry/Django-02-Django-%EC%8B%9C%EC%9E%91-Hello-World-%EC%B6%9C%EB%A0%A5
 
+
+[ CRUD 게시판 만들기 예제 ] 
+https://cholol.tistory.com/451
