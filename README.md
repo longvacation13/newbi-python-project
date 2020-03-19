@@ -38,3 +38,9 @@ https://ssungkang.tistory.com/entry/Django-02-Django-%EC%8B%9C%EC%9E%91-Hello-Wo
 
 [ CRUD 게시판 만들기 예제 ] 
 https://cholol.tistory.com/451
+
+
+[ Specification documents ] 
+https://docs.python.org/ko/3/tutorial/index.html
+
+
